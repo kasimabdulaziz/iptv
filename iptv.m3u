@@ -6472,13 +6472,10 @@ http://84.244.187.12:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLWqFnN.png" group-title="KURDISTAN",Cihan
 http://teradek.live:1935/live/cihanhd/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HdXaTr8.png" group-title="KURDISTAN",Ezidxan TV
-http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMwXd1R.png" group-title="KURDISTAN",GK Sat TV
 http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw (Opt-1)
+#EXTINF:-1 tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw (Opt-1)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw (Opt-2)
