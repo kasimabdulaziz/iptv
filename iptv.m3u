@@ -6466,7 +6466,7 @@ http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
 http://www.lengua.com/anthems/Kurdistan.mp3
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Rudaw_Media_Network#/media/File:Rudaw.jpg" group-title="Kurdistan",Rudaw
+#EXTINF:-1 tvg-logo="https://rudaw.net/player/rudaw.png" group-title="KURDISTAN",Rudaw
 http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/295.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
